@@ -1,9 +1,9 @@
 # python_project_scikitlearn
-# 🧪 Solubility Prediction Using Scikit-Learn
+#  Solubility Prediction Using Scikit-Learn
 
 This project demonstrates a complete machine learning pipeline for predicting aqueous solubility (LogS) of chemical compounds based on their SMILES representation and physicochemical descriptors.
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal is to build and evaluate regression models to predict solubility, using a cleaned dataset enriched with chemical descriptors. The workflow includes:
 
